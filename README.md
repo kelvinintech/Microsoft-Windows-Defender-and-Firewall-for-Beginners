@@ -134,7 +134,8 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
   <li>This page shows you the results of the last scan. You see the files identified as a threat and quarantined, so they cannot damage your device. You then see files identified as potential threats but allowed to continue running.
 </li>
 </ul>
-![10](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/77b19fcd-4305-43ae-bad0-d2d7ebace7c1)
+
+![10](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/17f79bbb-b97e-42ba-b410-7afbe24a3d30)
 
 </p>
 
