@@ -18,8 +18,7 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 <p>Exercise 1: Review Windows Security Virus & threat protection
 
 <p align="center">
-  <img src="![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/c28c2fdc-898f-4770-968e-2e06aa6cd06a)
-" width="350" title="hover text">
+  <img src=![First Image](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/c28c2fdc-898f-4770-968e-2e06aa6cd06a) width="350">
 </p>
 
 
