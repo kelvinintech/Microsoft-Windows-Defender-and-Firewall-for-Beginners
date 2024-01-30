@@ -32,3 +32,22 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 
 
 
+#break
+
+
+<p>
+
+<ol>
+  <li>On the Windows Settings page, select Update & Security.</li>
+</ol>
+  
+![2](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/52f90b87-aafc-4c23-810f-837a06e1b598)
+
+
+</p>
+
+
+
+
+
+
