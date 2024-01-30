@@ -19,9 +19,7 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 
 Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/b5a76207-4412-4084-a561-cc6dc964d465)
-")
+Inline-style: ![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/1f679628-0bc7-4d35-8c96-ec5d83bf0f97)
 
 
 
