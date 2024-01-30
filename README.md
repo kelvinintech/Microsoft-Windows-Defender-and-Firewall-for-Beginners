@@ -74,12 +74,12 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 <p>
 
 <ul>
-  On this screen, you’ll see the following features:</li>
+  <li>On this screen, you’ll see the following features:</li>
   <ol>
-    <li>Current threats: Here, you can see any threats that have been detected on your device. You can see when the last scan occurred, how long the scan took, and how many files were scanned. Here you can also click the button to start a quick scan or access scan options to run a full scan or a custom scan. </li> <br />
-<li>Virus & threat protection settings: Here, you can access options for managing your virus and threat protection settings. You can customize your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.</li>
-<li>Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
-Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.</li>
+    <li><b>Current threats:</b> Here, you can see any threats that have been detected on your device. You can see when the last scan occurred, how long the scan took, and how many files were scanned. Here you can also click the button to start a quick scan or access scan options to run a full scan or a custom scan. </li> <br />
+<li><b>Virus & threat protection settings:</b> Here, you can access options for managing your virus and threat protection settings. You can customize your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.</li>
+<li><b>Virus & threat protection updates:</b> Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
+<b>Ransomware protection:</b> Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.</li>
   </ol>
 </ul>
 
