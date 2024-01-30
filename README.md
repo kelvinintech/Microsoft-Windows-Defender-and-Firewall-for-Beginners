@@ -114,7 +114,30 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 <br />
 <p>
   You can view details for the most recent update to your threat definitions. Select Check for updates. This process could take a few minutes. When the update has completed, the Check for updates button will return, and you should notice that the last update time and date have changed. Select the back button to return to the Virus & threat protection screen.
+
+![8](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/8646ba3d-3cb8-4a5f-9117-fa5ec53ecafc)
+
 </p>
+
+
+
+<h3>Step 3: Run Antivirus Quick Scan</h3>
+<p>Now we can run an <b>antivirus scan</b>. Click the Quick scan button on the Virus & threat protection screen. The scan will take several minutes to run. When complete, the Quick scan button will reappear. Click <b>Threat history</b> to view any recent findings.</p>
+
+![9](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/63bc9ed2-a067-4223-8789-8c45870a4654)
+
+
+
+<p>
+
+<ul>
+  <li>This page shows you the results of the last scan. You see the files identified as a threat and quarantined, so they cannot damage your device. You then see files identified as potential threats but allowed to continue running.
+</li>
+</ul>
+![10](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/77b19fcd-4305-43ae-bad0-d2d7ebace7c1)
+
+</p>
+
 
 </body>
 
