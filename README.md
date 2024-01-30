@@ -8,9 +8,9 @@
 
   <p>Get ready for an interactive adventure in this hands-on lab where you'll: <br /?
 <ul>
-  <li>Explore the fascinating world of Windows Security Virus and threat protection.</li>
-<li>Become a threat definition wizard as you update them with flair.</li>
-<li>Embark on a thrilling journey with a quick scan led by Windows Defender Antivirus.</li>
+ <li>Review Windows Security Virus and threat protection.</li>
+<li>Update threat definitions.</li>
+<li>Run Windows Defender Antivirus quick scan.</li>
 </ul>
 <br />
 And now, for a cybersecurity-related joke to lighten the mood: Why did the computer take up gardening? Because it wanted to improve its root security! 🌐🌱</p>
@@ -140,6 +140,7 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 </p>
 
 
+<h4>Congrations! You have completed this project. Please suscribe to my <a href="https://www.youtube.com/@Kelvinintech">YouTube</a> where I'll be posting video tutorials soon. Also, follow me on <a href="https://twitter.com/kelvinrtobias">X</a> and lets Connect on <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">linkedIn.</a></h4>
 </body>
 
 
