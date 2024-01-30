@@ -18,7 +18,7 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 <h3>Exercise 1: Review Windows Security Virus & threat protection</h3>
 
 
-
+<body style="text-align: center;">
 <p>
 
 <ul>
@@ -86,6 +86,26 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 ![5](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/a50f5450-f53f-4db5-bea0-b289f3d75015)
 
 
+</p>
+
+
+<h3>Step 2: Update Threat Definitions</h3>
+<p>
+
+  Windows Security uses security intelligence, also known as definitions, to identify known threats. These definitions include information about known threats. These definitions are updated automatically, but if you suspect a problem with your system, you should ensure that threat definitions are up-to-date before you run a scan.
+
+</p>
+
+
+
+<p>
+
+<ul>
+  <li>Under Virus & threat protection updates, select Check for updates.
+</li>
+</ul>
+
+![7](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/eb92bb01-cca1-44ab-96ab-8e9a5860ef5e)
 
 
 </p>
@@ -93,8 +113,7 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 
 
 
-
-
+</body>
 
 
 
