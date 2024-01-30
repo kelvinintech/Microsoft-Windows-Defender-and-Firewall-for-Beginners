@@ -25,10 +25,10 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
   <ol>Click the Windows Start button and select Settings.</ol>
 </ul>
   
-</p>
+
 ![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/1f679628-0bc7-4d35-8c96-ec5d83bf0f97)
 
-
+</p>
 
 
 
