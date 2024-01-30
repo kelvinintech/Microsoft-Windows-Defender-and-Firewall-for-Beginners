@@ -16,11 +16,10 @@
 And now, for a cybersecurity-related joke to lighten the mood: Why did the computer take up gardening? Because it wanted to improve its root security! 🌐🌱</p>
 
 <p>Exercise 1: Review Windows Security Virus & threat protection
-<img src="![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/d0f3c0e6-93b8-4d29-b142-58017b2dd123)
-">
 
-<img src="(https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/b80714c2-9a3b-4d3c-8d3b-84aa8a9d4e1d)">
-
+<p align="center">
+  <img src="![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/c28c2fdc-898f-4770-968e-2e06aa6cd06a)
+" width="350" title="hover text">
 </p>
 
 
