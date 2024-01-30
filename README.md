@@ -21,30 +21,44 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 
 <p>
 
-<ol>
+<ul>
   <li>Click the Windows Start button and select Settings.</li>
-</ol>
+</ul>
   
 
 ![1](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/1f679628-0bc7-4d35-8c96-ec5d83bf0f97)
+
+
 
 </p>
 
 
 
-#break
-
-
 <p>
 
-<ol>
+<ul>
   <li>On the Windows Settings page, select Update & Security.</li>
-</ol>
+</ul>
   
 ![2](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/52f90b87-aafc-4c23-810f-837a06e1b598)
 
 
 </p>
+
+
+<p>
+
+<ul>
+  <li>Under Update & Security, select Windows Security.</li>
+</ul>
+
+![3](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/9d4bda58-369f-4ad9-ad6f-acbfb3530598)
+
+
+</p>
+
+
+
 
 
 
