@@ -108,10 +108,13 @@ And now, for a cybersecurity-related joke to lighten the mood: Why did the compu
 ![7](https://github.com/kelvinintech/Microsoft-Windows-Defender-and-Firewall-for-Beginners/assets/110644520/eb92bb01-cca1-44ab-96ab-8e9a5860ef5e)
 
 
+
 </p>
 
-
-
+<br />
+<p>
+  You can view details for the most recent update to your threat definitions. Select Check for updates. This process could take a few minutes. When the update has completed, the Check for updates button will return, and you should notice that the last update time and date have changed. Select the back button to return to the Virus & threat protection screen.
+</p>
 
 </body>
 
